@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\https-github.com-Magtimus-Header-y-portada-recurso-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HeroSlider"
+	}
+}
