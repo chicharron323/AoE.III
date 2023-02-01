@@ -329,6 +329,7 @@ html, body{
 }
 
 .sonido-aoe{
+	font-family: 'RobotoCondensedRegular';
 	color: #E1E1E1;
 	font-size: 200%;
 }
